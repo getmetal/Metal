@@ -4,8 +4,8 @@
 
 ## Packages
 
-- [@getmetal/metal-sdk](https://github.com/getmetal/metal-sdk)
 - [@getmetal/documetal](https://github.com/getmetal/documetal)
+- [@getmetal/metal-sdk](https://github.com/getmetal/metal-sdk)
 
 ## Documentation
 
