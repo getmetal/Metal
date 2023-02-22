@@ -9,7 +9,7 @@
 
 ## Documentation
 
-Checkout our [developers documentation](https://docs.getmetal.io).
+Checkout our [developers documentation](https://docs.getmetal.io) to get started with [🤘 Metal](https://getmetal.io). Our docs are open source and can be edited [here](https://github.com/getmetal/documetal).
 
 ## License
 
