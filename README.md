@@ -13,6 +13,10 @@ Checkout our [developers documentation](https://docs.getmetal.io) to get started
 
 Our docs are open source and can be edited [here](https://github.com/getmetal/documetal).
 
+## Community
+
+- [Twitter](https://twitter.com/Metal_io) - Follow along or send us a tweet!
+
 ## License
 
 Licensed under the Apache License 2.0, Copyright © 2023-present [Metal Technologies Inc](https://getmetal.io).
