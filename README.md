@@ -15,8 +15,9 @@
 
 ## Packages
 
-- [@getmetal/documetal](https://github.com/getmetal/documetal)
-- [@getmetal/metal-sdk](https://github.com/getmetal/metal-sdk)
+- [**Documentation**: @getmetal/documetal](https://github.com/getmetal/documetal)
+- [**TypeScript SDK**: @getmetal/metal-ts](https://github.com/getmetal/metal-ts)
+- [**Python SDK**: @getmetal/metal-python](https://github.com/getmetal/metal-python)
 
 ## Documentation
 
