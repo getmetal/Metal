@@ -18,6 +18,7 @@
 - [**Documentation**: @getmetal/documetal](https://github.com/getmetal/documetal)
 - [**TypeScript SDK**: @getmetal/metal-ts](https://github.com/getmetal/metal-ts)
 - [**Python SDK**: @getmetal/metal-python](https://github.com/getmetal/metal-python)
+- [**Motörhead**: @getmetal/motorhead](https://github.com/getmetal/motorhead)
 
 ## Documentation
 
@@ -27,6 +28,7 @@ Our docs are open source and can be edited [here](https://github.com/getmetal/do
 
 ## Community
 
+- [Discord](https://discord.gg/PZuczkfR) - Join the Discord community.
 - [Twitter](https://twitter.com/Metal_io) - Follow along or send us a tweet!
 
 ## License
