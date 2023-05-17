@@ -1,0 +1,77 @@
+{
+  "name": "@dqbd/tiktoken",
+  "version": "1.0.7",
+  "description": "Javascript bindings for tiktoken",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dqbd/tiktoken"
+  },
+  "dependencies": {},
+  "files": [
+    "**/*"
+  ],
+  "main": "tiktoken.cjs",
+  "types": "tiktoken.d.ts",
+  "exports": {
+    ".": {
+      "types": "./tiktoken.d.ts",
+      "edge-light": "./tiktoken.js",
+      "node": "./tiktoken.cjs",
+      "default": "./tiktoken.js"
+    },
+    "./init": {
+      "types": "./init.d.ts",
+      "edge-light": "./init.js",
+      "node": "./init.cjs",
+      "default": "./init.js"
+    },
+    "./load": {
+      "types": "./load.d.ts",
+      "edge-light": "./load.js",
+      "node": "./load.cjs",
+      "default": "./load.js"
+    },
+    "./tiktoken_bg.wasm": {
+      "types": "./tiktoken_bg.wasm.d.ts",
+      "default": "./tiktoken_bg.wasm"
+    },
+    "./tiktoken_bg.wasm?module": {
+      "types": "./tiktoken_bg.wasm.d.ts",
+      "default": "./tiktoken_bg.wasm?module"
+    },
+    "./lite": {
+      "types": "./lite/tiktoken.d.ts",
+      "edge-light": "./lite/tiktoken.js",
+      "node": "./lite/tiktoken.cjs",
+      "default": "./lite/tiktoken.js"
+    },
+    "./lite/init": {
+      "types": "./lite/init.d.ts",
+      "edge-light": "./lite/init.js",
+      "node": "./lite/init.cjs",
+      "default": "./lite/init.js"
+    },
+    "./lite/load": {
+      "types": "./lite/load.d.ts",
+      "edge-light": "./lite/load.js",
+      "node": "./lite/load.cjs",
+      "default": "./lite/load.js"
+    },
+    "./lite/tiktoken_bg.wasm": {
+      "types": "./lite/tiktoken_bg.wasm.d.ts",
+      "default": "./lite/tiktoken_bg.wasm"
+    },
+    "./lite/tiktoken_bg.wasm?module": {
+      "types": "./lite/tiktoken_bg.wasm.d.ts",
+      "default": "./lite/tiktoken_bg.wasm?module"
+    },
+    "./model_to_encoding.json": "./model_to_encoding.json",
+    "./registry.json": "./registry.json",
+    "./encoders/gpt2.json": "./encoders/gpt2.json",
+    "./encoders/r50k_base.json": "./encoders/r50k_base.json",
+    "./encoders/p50k_base.json": "./encoders/p50k_base.json",
+    "./encoders/p50k_edit.json": "./encoders/p50k_edit.json",
+    "./encoders/cl100k_base.json": "./encoders/cl100k_base.json"
+  }
+}

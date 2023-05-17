@@ -1,0 +1,20 @@
+version: '3'
+services:
+  motorhead:
+    image: ghcr.io/getmetal/motorhead:v2.0.1
+    ports:
+      - '8080:8080'
+    links:
+      - redis
+    environment:
+      PORT: 8080
+      MOTORHEAD_LONG_TERM_MEMORY: 'true'
+      MOTORHEAD_MODEL: 'gpt-3.5-turbo'
+      REDIS_URL: 'redis://redis:6379'
+    env_file:
+      - .env
+
+  redis:
+    image: redis/redis-stack-server:latest
+    ports:
+      - '6379:6379'
