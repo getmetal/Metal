@@ -1,0 +1,3 @@
+[submodule "examples/05-ufo-chatbot-nodejs/chatbot"]
+	path = examples/05-ufo-chatbot-nodejs/chatbot
+	url = git@github.com:getmetal/chatbot.git
