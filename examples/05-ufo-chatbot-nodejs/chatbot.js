@@ -24,7 +24,7 @@ function handleResponse(response) {
   const id = response.id;
   createIndexWithDatasourceID(id);
 
-  const folderPath = 'data';
+  const folderPath = 'reports';
   addDataEntities(id, folderPath);
 }
 
